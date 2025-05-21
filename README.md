@@ -5,6 +5,8 @@
 <p align="center">
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-gnupg)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/gnupg/total?style=flat-square)
+
 
   <a href="https://gnupg.org/">
   <img src="https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnupg&logoColor=white" alt="GnuPG">

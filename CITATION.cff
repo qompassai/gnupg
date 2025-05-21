@@ -1,13 +1,13 @@
 cff-version: 1.2.0
-title: "Qompass AI on GnuPG/PGP"
+title: "gnupg"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Porter"
     given-names: "Matthew A."
     orcid: "https://orcid.org/0000-0002-0302-4812"
     affiliation: "Qompass AI"
-version: "v2025-05-20"
-date-released: "2025-05-20"
+version: "v2025-05-21"
+date-released: "2025-05-21"
 repository-code: "https://github.com/qompassai/gnupg"
 license: "Q-CDA-1.0"
 keywords:
@@ -16,6 +16,6 @@ keywords:
   - Healthcare
   - Post-Quantum Cryptography
   - Quantum
-  - openpgp
-  - gnupg
-abstract: "Qompass AI on GnuPG/PGP"
+  - opensource
+  - software
+abstract: "Qompass AI on GnuPG/OpenPGP"
