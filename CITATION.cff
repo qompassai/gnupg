@@ -10,12 +10,4 @@ version: "v2025-06-18"
 date-released: "2025-06-18"
 repository-code: "https://github.com/qompassai/gnupg"
 license: "Q-CDA-1.0"
-keywords:
-  - AI
-  - Education
-  - Healthcare
-  - Post-Quantum Cryptography
-  - Quantum
-  - opensource
-  - software
-abstract: "Qompass AI on GnuPG/OpenPGP"
+license-url: "https://github.com/qompassai/license/blob/main/LICENSE"
